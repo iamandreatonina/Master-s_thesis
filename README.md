@@ -2,7 +2,7 @@
 
 ## Models and results of the plot
 
-### B_A 
+### B~A~ 
 
 Initial values: 500 inhibitor_p | 500 E_1 | 500 E_2 
 
