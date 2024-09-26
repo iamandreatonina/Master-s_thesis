@@ -4,6 +4,7 @@
 
 
 _Model annotation_ 
+
 <img src = 'https://github.com/iamandreatonina/master-s_thesis/blob/main/expl/explanation.png' />
 
 ### B<sub>A</sub> 
