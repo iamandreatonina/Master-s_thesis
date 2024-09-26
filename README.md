@@ -2,9 +2,9 @@
 
 ## Models and results of the plot
 
-<img src = 'https://github.com/iamandreatonina/master-s_thesis/blob/main/expl/explanation.png' />
 
-Model annotation 
+_Model annotation_ 
+<img src = 'https://github.com/iamandreatonina/master-s_thesis/blob/main/expl/explanation.png' />
 
 ### B<sub>A</sub> 
 Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> 
