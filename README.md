@@ -2,6 +2,8 @@
 
 ## Models and results of the plot
 
+<img src = 'https://github.com/iamandreatonina/master-s_thesis/blob/main/expl/explanation.png' />
+
 Model annotation 
 
 ### B<sub>A</sub> 
