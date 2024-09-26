@@ -1,2 +1,9 @@
-# master-s_thesis
+# master's thesis
 
+## Models and results of the plot
+
+### B_A 
+
+Initial values: 500 inhibitor_p | 500 E_1 | 500 E_2 
+
+	* 500 TF_a <img src='/models_thesis/B_a/TF_a_500/B_a_stop_500.png'>
