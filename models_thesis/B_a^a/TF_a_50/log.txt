@@ -1,0 +1,11 @@
+
+
+----------------------
+[25-9-2024 16:16:1] Random seed: 696908667
+[25-9-2024 16:16:1] PROGRAM FILE: parsed.
+[25-9-2024 16:16:1] SYMBOL TABLE: generated.
+[25-9-2024 16:16:1] VALIDATION: ok.
+[25-9-2024 16:16:1] INTERMEDIATE CODE: generated.
+[25-9-2024 16:16:1] ENVIRONMENT: initialized.
+[25-9-2024 16:16:1] SIMULATION: terminated.
+[25-9-2024 16:16:1] ENVIRONMENT: deallocated.
