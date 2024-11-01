@@ -23,7 +23,7 @@
 - 50 TF<sub>a</sub>
 <p float="left">
   <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Ea/TF_a_50/B_a%5Ea_stop_50.png' width = 400/>
-  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Ea/TF_a_50/B_a%5Ea_stop_50_1500.png' width = 400/>
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Ea/TF_a_50/B_a%5Ea_stop_50_1500.png' width = 500/>
 </p>
 
 ### B<sup>I</sup><sub>A</sub> Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>I</sub> | 500 Pho
