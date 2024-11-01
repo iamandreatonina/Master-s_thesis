@@ -39,16 +39,20 @@
   <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Ei/TF_a_50/B_a%5Ei_stop_50_1500.png' width = 400/>
 </p>
 
-### B<sup>B</sup><sub>A</sub> 
-Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>A</sub>| 500 ChP<sub>I</sub> | 500 Pho
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a%5Eb/B_a%5Eb_diagram.png' width = 600/>
+### B<sup>B</sup><sub>A</sub> Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>A</sub>| 500 ChP<sub>I</sub> | 500 Pho
+<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Eb/B_a%5Eb_diagram.png' width = 600/>
 - 500 TF<sub>a</sub> 
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a%5Eb/TF_a_500/B_a%5Eb_stop_500.png' width = 600/>
+<p float="left">
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Eb/TF_a_500/B_a%5Eb_stop_500.png' width = 400/>
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Eb/TF_a_500/B_a%5Eb_stop_500_1500.png' width = 400/>
+</p>
 - 50 TF<sub>a</sub>
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a%5Eb/TF_a_50/B_a%5Eb_stop_50.png' width = 600/>
+<p float="left">
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Eb/TF_a_50/B_a%5Eb_stop_50.png' width = 400/>
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a%5Eb/TF_a_50/B_a%5Eb_stop_50_1500.png' width = 400/>
+</p>
 
-### B<sub>I</sub> 
-Initial values: 500 activator | 500 E<sub>1</sub> | 500 E<sub>2</sub> |
+### B<sub>I</sub> Initial values: 500 activator | 500 E<sub>1</sub> | 500 E<sub>2</sub> |
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i/Diagram_B_i.png' width = 600/>
 - 500 TF<sub>i</sub> 
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i/TF_i_500/B_i_go_500.png' width = 600/>
