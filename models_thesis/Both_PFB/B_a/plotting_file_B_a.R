@@ -104,4 +104,4 @@ ggplot(file_B_a_50_1500) +
   ylab( 'Molecule number')
 
 
-ggsave(filename = 'B_a_stop_500_1500.png', plot = last_plot())
+ggsave(filename = 'B_a_stop_50_1500.png', plot = last_plot())
