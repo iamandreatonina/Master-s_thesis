@@ -53,14 +53,19 @@
 </p>
 
 ### B<sub>I</sub> Initial values: 500 activator | 500 E<sub>1</sub> | 500 E<sub>2</sub> |
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i/Diagram_B_i.png' width = 600/>
+<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_i/Diagram_B_i.png' width = 600/>
 - 500 TF<sub>i</sub> 
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i/TF_i_500/B_i_go_500.png' width = 600/>
+<p float="left">
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_i/TF_i_500/B_i_go_500_1500.png' width = 400/>
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_i/TF_i_500/B_i_go_500.png' width = 400/>
+</p>
 - 50 TF<sub>i</sub>
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i/TF_i_50/B_i_go_50.png' width = 600/>
+<p float="left">
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_i/TF_i_50/B_i_go_50_1500.png' width = 400/>
+  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_i/TF_i_50/B_i_go_50.png' width = 400/>
+</p>
 
-### B<sup>A</sup><sub>I</sub> 
-Initial values: 500 activator | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>A</sub>
+### B<sup>A</sup><sub>I</sub> Initial values: 500 activator | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>A</sub>
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i%5Ea/Diagram_B_i%5Ea.png' width = 600/>
 - 500 TF<sub>i</sub> 
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_i%5Ea/TF_i_500/B_i%5Ea_go_500.png' width = 600/>
