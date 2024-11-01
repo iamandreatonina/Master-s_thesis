@@ -4,7 +4,13 @@
 
 
 _Model annotation_ 
-
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 <img src = 'https://github.com/iamandreatonina/master-s_thesis/blob/main/expl/explanation.png' />
 
 ### B<sub>A</sub> 
