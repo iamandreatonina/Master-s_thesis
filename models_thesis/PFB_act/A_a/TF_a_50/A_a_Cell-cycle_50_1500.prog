@@ -1,0 +1,88 @@
+[ steps = 3000 , delta = 0.5 ]
+
+
+// TR
+
+let TR : bproc = #(x,TR) [ nil ];
+let TR_p : bproc = #(x_p,TR_p) [ nil ];
+
+// addjunction 
+
+when (TR_p :: r_1) new(1);
+
+//deletions 
+
+when (TR :: r_5) delete(1);
+when (TR_p :: r_4) delete(1);
+
+// movements 
+
+when (TR_p :: r_3) split(TR, Nil);
+//when (TR_p :: r_27) split(TR, Nil);
+when (TR :: r_2) split(TR_p, Nil);
+
+// ACTIVATOR 
+
+let activator : bproc = #(y, activator) [ nil ];
+let activator_p : bproc = #(y_p, activator_p) [ nil ];
+
+// addjunction 
+
+when (activator :: r_16) new(1);
+
+// deletions 
+
+when (activator_p :: r_15) delete(1);
+when (activator :: r_17) delete(1);
+
+// movements 
+
+when (activator :: r_13) split(activator_p, Nil);
+when (activator :: r_12) split(activator_p, Nil);
+//when (activator :: r_29) split(activator_p, Nil);
+when (activator_p :: r_14) split(activator, Nil);
+//when (activator_p :: r_28) split(activator, Nil);
+
+
+// INHIBITORS
+let inhibitor : bproc = #(z, inhibitor) [ nil ];
+let inhibitor_p : bproc = #(z_p, inhibitor_p) [ nil ];
+let p_inhibitor : bproc = #(p_z, inhibitor_p) [ nil ];
+let p_inhibitor_p : bproc = #(p_z_p, inhibitor) [ nil ];
+
+// addjucntion 
+
+//when (inhibitor_p :: r_10) new(1);
+
+// deletions 
+
+//when (inhibitor_p :: r_11) delete(1);
+//when (inhibitor :: r_9) delete(1);
+//when (p_inhibitor_p :: r_24) delete(1);
+//when (p_inhibitor :: r_23) delete(1);
+
+// movements 
+
+when (inhibitor :: r_6) split(inhibitor_p, Nil);
+//when (inhibitor_p :: r_8) split(inhibitor, Nil);
+//when (inhibitor_p :: r_7) split(inhibitor, Nil);
+//when (inhibitor :: r_18) split(p_inhibitor, Nil);
+//when (p_inhibitor :: r_19) split(inhibitor, Nil);
+//when (inhibitor_p :: r_20) split(p_inhibitor_p, Nil);
+//when (p_inhibitor_p :: r_21) split(inhibitor_p, Nil);
+//when (p_inhibitor :: r_22) split(p_inhibitor_p, Nil);
+//when (p_inhibitor_p :: r_25) split(p_inhibitor, Nil);
+//when (p_inhibitor_p :: r_26) split(p_inhibitor, Nil);
+
+//others 
+let TF_a : bproc = #(d, TF_a) [ nil ];
+let TF_i : bproc = #(c, TF_i) [ nil ];
+let E_1 : bproc = #(f, E_1) [ nil ];
+let E_2 : bproc = #(g, E_2) [ nil ];
+let Chp_a : bproc = #(h, Chp_a) [ nil ];
+let Chp_i : bproc = #(j, Chp_i) [ nil ];
+let Pho : bproc = #(k, Pho) [ nil ];
+let S : bproc = #(s, S) [ nil ];
+
+run 500 inhibitor_p || 50 TF_a || 500 E_1 || 500 E_2 
+

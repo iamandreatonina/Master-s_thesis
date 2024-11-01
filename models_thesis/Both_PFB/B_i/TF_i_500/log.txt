@@ -1,0 +1,60 @@
+
+
+----------------------
+[25-9-2024 12:3:24] Random seed: 681751811
+[25-9-2024 12:3:24] PROGRAM FILE: parsed.
+[25-9-2024 12:3:24] SYMBOL TABLE: generated.
+[25-9-2024 12:3:24] VALIDATION: ok.
+[25-9-2024 12:3:24] INTERMEDIATE CODE: generated.
+[25-9-2024 12:3:24] ENVIRONMENT: initialized.
+[25-9-2024 12:3:25] SIMULATION: terminated.
+[25-9-2024 12:3:25] ENVIRONMENT: deallocated.
+
+
+----------------------
+[3-10-2024 19:33:57] Random seed: 1399984997
+[3-10-2024 19:33:57] PROGRAM FILE: parsed.
+[3-10-2024 19:33:57] SYMBOL TABLE: generated.
+[3-10-2024 19:33:57] VALIDATION: ok.
+[3-10-2024 19:33:57] INTERMEDIATE CODE: generated.
+[3-10-2024 19:33:57] ENVIRONMENT: initialized.
+[3-10-2024 19:33:58] SIMULATION: terminated.
+[3-10-2024 19:33:58] ENVIRONMENT: deallocated.
+
+
+----------------------
+[3-10-2024 19:38:34] Random seed: 1400261516
+[3-10-2024 19:38:34] PROGRAM FILE: parsed.
+[3-10-2024 19:38:34] SYMBOL TABLE: generated.
+[3-10-2024 19:38:34] VALIDATION: ok.
+[3-10-2024 19:38:34] INTERMEDIATE CODE: generated.
+[3-10-2024 19:38:34] ENVIRONMENT: initialized.
+[3-10-2024 19:38:36] SIMULATION: terminated.
+[3-10-2024 19:38:36] ENVIRONMENT: deallocated.
+
+
+----------------------
+[9-10-2024 12:1:12] Random seed: 1891219896
+[9-10-2024 12:1:12] PROGRAM FILE: parsed.
+[9-10-2024 12:1:12] SYMBOL TABLE: generated.
+[9-10-2024 12:1:12] VALIDATION: ok.
+[9-10-2024 12:1:12] INTERMEDIATE CODE: generated.
+[9-10-2024 12:1:12] ENVIRONMENT: initialized.
+[9-10-2024 12:1:13] SIMULATION: terminated.
+[9-10-2024 12:1:13] ENVIRONMENT: deallocated.
+
+
+----------------------
+[9-10-2024 12:3:2] Random seed: 1891329364
+[9-10-2024 12:3:2] PROGRAM FILE: parsed.
+[9-10-2024 12:3:2] SYMBOL TABLE: generated.
+[9-10-2024 12:3:2] VALIDATION: ok.
+[9-10-2024 12:3:2] INTERMEDIATE CODE: generated.
+[9-10-2024 12:3:2] ENVIRONMENT: initialized.
+[9-10-2024 12:3:3] SIMULATION: terminated.
+[9-10-2024 12:3:3] ENVIRONMENT: deallocated.
+
+
+----------------------
+[9-10-2024 12:5:8] Random seed: 1891455046
+[9-10-2024 12:5:8] PROGRAM FILE: cannot open.

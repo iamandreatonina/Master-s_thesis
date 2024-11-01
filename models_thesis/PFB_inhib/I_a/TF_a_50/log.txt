@@ -1,0 +1,44 @@
+
+
+----------------------
+[2-10-2024 12:1:25] Random seed: 1286432973
+[2-10-2024 12:1:25] PROGRAM FILE: parsed.
+[2-10-2024 12:1:25] SYMBOL TABLE: generated.
+[2-10-2024 12:1:25] VALIDATION: ok.
+[2-10-2024 12:1:25] INTERMEDIATE CODE: generated.
+[2-10-2024 12:1:25] ENVIRONMENT: initialized.
+[2-10-2024 12:1:26] SIMULATION: terminated.
+[2-10-2024 12:1:26] ENVIRONMENT: deallocated.
+
+
+----------------------
+[2-10-2024 15:3:16] Random seed: 1297343271
+[2-10-2024 15:3:16] PROGRAM FILE: parsed.
+[2-10-2024 15:3:16] SYMBOL TABLE: generated.
+[2-10-2024 15:3:16] VALIDATION: ok.
+[2-10-2024 15:3:16] INTERMEDIATE CODE: generated.
+[2-10-2024 15:3:16] ENVIRONMENT: initialized.
+[2-10-2024 15:3:16] SIMULATION: terminated.
+[2-10-2024 15:3:16] ENVIRONMENT: deallocated.
+
+
+----------------------
+[3-10-2024 16:6:17] Random seed: 1387524432
+[3-10-2024 16:6:17] PROGRAM FILE: parsed.
+[3-10-2024 16:6:17] SYMBOL TABLE: generated.
+[3-10-2024 16:6:17] VALIDATION: ok.
+[3-10-2024 16:6:17] INTERMEDIATE CODE: generated.
+[3-10-2024 16:6:17] ENVIRONMENT: initialized.
+[3-10-2024 16:6:17] SIMULATION: terminated.
+[3-10-2024 16:6:17] ENVIRONMENT: deallocated.
+
+
+----------------------
+[3-10-2024 18:27:0] Random seed: 1395967145
+[3-10-2024 18:27:0] PROGRAM FILE: parsed.
+[3-10-2024 18:27:0] SYMBOL TABLE: generated.
+[3-10-2024 18:27:0] VALIDATION: ok.
+[3-10-2024 18:27:0] INTERMEDIATE CODE: generated.
+[3-10-2024 18:27:0] ENVIRONMENT: initialized.
+[3-10-2024 18:27:0] SIMULATION: terminated.
+[3-10-2024 18:27:0] ENVIRONMENT: deallocated.
