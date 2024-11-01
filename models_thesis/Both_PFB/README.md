@@ -3,7 +3,7 @@
 ### B<sub>A</sub> Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> 
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a/B_a_diagram.png' width = 600 class='center'/>
 - 500 TF<sub>a</sub>
-<p float="left">
+<p float="center">
   <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a/TF_a_500/B_a_stop_500.png' width = 400/>
   <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a/TF_a_500/B_a_stop_500_1500.png' width = 400/>
 </p>
