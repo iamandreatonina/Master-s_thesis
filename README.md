@@ -14,7 +14,7 @@ Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub
 title: STOP control - TF on the activator
 ---
 flowchart TD
-    id1([Inhibitor]) --> id1([Inhibitor_p])
+    id1([Inhibitor]) --> id2([Inhibitor_p])
 ```
 ~~<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a/B_a_diagram.png' width = 600/>~~
 
