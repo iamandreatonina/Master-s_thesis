@@ -10,13 +10,16 @@ _Model annotation_
 Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> 
 
 ```mermaid
+---
+title: STOP control - TF on the activator
+---
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
 ```
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a/B_a_diagram.png' width = 600/>
+~~<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a/B_a_diagram.png' width = 600/>~~
 
 - 500 TF<sub>a</sub> 
 <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/B_a/TF_a_500/B_a_stop_500.png' width = 600/>
