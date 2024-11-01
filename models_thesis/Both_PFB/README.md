@@ -1,9 +1,7 @@
 # Models that present Positive Feedback loops on both activator and inhibitor
 
 ### B<sub>A</sub> Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> 
-<div  style="text-align: center;">
-  <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a/B_a_diagram.png' width = 600 class='center'/>
-</div>
+<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/Both_PFB/B_a/B_a_diagram.png' width = 600 align='center'/>
 
 *500 TF<sub>a</sub>
 <p float="left">
