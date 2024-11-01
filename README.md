@@ -14,7 +14,8 @@ Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub
 title: STOP control - TF on the activator
 ---
 graph TD;
-    A-->>B;
+    id1(A)
+    A-->B;
     A-->C;
     B-->D;
     C-->D;
