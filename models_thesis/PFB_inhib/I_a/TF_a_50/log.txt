@@ -42,3 +42,113 @@
 [3-10-2024 18:27:0] ENVIRONMENT: initialized.
 [3-10-2024 18:27:0] SIMULATION: terminated.
 [3-10-2024 18:27:0] ENVIRONMENT: deallocated.
+
+
+----------------------
+[13-11-2024 15:58:15] Random seed: 638075067
+[13-11-2024 15:58:15] PROGRAM FILE: parsed.
+[13-11-2024 15:58:15] SYMBOL TABLE: generated.
+[13-11-2024 15:58:15] VALIDATION: ok.
+[13-11-2024 15:58:15] INTERMEDIATE CODE: generated.
+[13-11-2024 15:58:15] ENVIRONMENT: initialized.
+[13-11-2024 15:58:15] SIMULATION: terminated.
+[13-11-2024 15:58:15] ENVIRONMENT: deallocated.
+
+
+----------------------
+[13-11-2024 15:58:24] Random seed: 638084153
+[13-11-2024 15:58:24] PROGRAM FILE: parsed.
+[13-11-2024 15:58:24] SYMBOL TABLE: generated.
+[13-11-2024 15:58:24] VALIDATION: ok.
+[13-11-2024 15:58:24] INTERMEDIATE CODE: generated.
+[13-11-2024 15:58:24] ENVIRONMENT: initialized.
+[13-11-2024 15:58:24] SIMULATION: terminated.
+[13-11-2024 15:58:24] ENVIRONMENT: deallocated.
+
+
+----------------------
+[13-11-2024 16:22:11] Random seed: 639511389
+[13-11-2024 16:22:11] PROGRAM FILE: parsed.
+[13-11-2024 16:22:11] SYMBOL TABLE: generated.
+[13-11-2024 16:22:11] VALIDATION: ok.
+[13-11-2024 16:22:11] INTERMEDIATE CODE: generated.
+[13-11-2024 16:22:11] ENVIRONMENT: initialized.
+[13-11-2024 16:22:11] SIMULATION: terminated.
+[13-11-2024 16:22:11] ENVIRONMENT: deallocated.
+
+
+----------------------
+[13-11-2024 16:22:12] Random seed: 639512320
+[13-11-2024 16:22:12] PROGRAM FILE: parsed.
+[13-11-2024 16:22:12] SYMBOL TABLE: generated.
+[13-11-2024 16:22:12] VALIDATION: ok.
+[13-11-2024 16:22:12] INTERMEDIATE CODE: generated.
+[13-11-2024 16:22:12] ENVIRONMENT: initialized.
+[13-11-2024 16:22:12] SIMULATION: terminated.
+[13-11-2024 16:22:12] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:51:58] Random seed: 727697875
+[14-11-2024 16:51:58] PROGRAM FILE: parsed.
+[14-11-2024 16:51:58] SYMBOL TABLE: generated.
+[14-11-2024 16:51:58] VALIDATION: ok.
+[14-11-2024 16:51:58] INTERMEDIATE CODE: generated.
+[14-11-2024 16:51:58] ENVIRONMENT: initialized.
+[14-11-2024 16:51:58] SIMULATION: terminated.
+[14-11-2024 16:51:58] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:52:0] Random seed: 727700181
+[14-11-2024 16:52:0] PROGRAM FILE: parsed.
+[14-11-2024 16:52:0] SYMBOL TABLE: generated.
+[14-11-2024 16:52:0] VALIDATION: ok.
+[14-11-2024 16:52:0] INTERMEDIATE CODE: generated.
+[14-11-2024 16:52:0] ENVIRONMENT: initialized.
+[14-11-2024 16:52:1] SIMULATION: terminated.
+[14-11-2024 16:52:1] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:54:20] Random seed: 727839964
+[14-11-2024 16:54:20] PROGRAM FILE: parsed.
+[14-11-2024 16:54:20] SYMBOL TABLE: generated.
+[14-11-2024 16:54:20] VALIDATION: ok.
+[14-11-2024 16:54:20] INTERMEDIATE CODE: generated.
+[14-11-2024 16:54:20] ENVIRONMENT: initialized.
+[14-11-2024 16:54:20] SIMULATION: terminated.
+[14-11-2024 16:54:20] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:54:22] Random seed: 727842631
+[14-11-2024 16:54:22] PROGRAM FILE: parsed.
+[14-11-2024 16:54:22] SYMBOL TABLE: generated.
+[14-11-2024 16:54:22] VALIDATION: ok.
+[14-11-2024 16:54:22] INTERMEDIATE CODE: generated.
+[14-11-2024 16:54:22] ENVIRONMENT: initialized.
+[14-11-2024 16:54:23] SIMULATION: terminated.
+[14-11-2024 16:54:23] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:54:46] Random seed: 727865889
+[14-11-2024 16:54:46] PROGRAM FILE: parsed.
+[14-11-2024 16:54:46] SYMBOL TABLE: generated.
+[14-11-2024 16:54:46] VALIDATION: ok.
+[14-11-2024 16:54:46] INTERMEDIATE CODE: generated.
+[14-11-2024 16:54:46] ENVIRONMENT: initialized.
+[14-11-2024 16:54:46] SIMULATION: terminated.
+[14-11-2024 16:54:46] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 16:54:49] Random seed: 727869351
+[14-11-2024 16:54:49] PROGRAM FILE: parsed.
+[14-11-2024 16:54:49] SYMBOL TABLE: generated.
+[14-11-2024 16:54:49] VALIDATION: ok.
+[14-11-2024 16:54:49] INTERMEDIATE CODE: generated.
+[14-11-2024 16:54:49] ENVIRONMENT: initialized.
+[14-11-2024 16:54:50] SIMULATION: terminated.
+[14-11-2024 16:54:50] ENVIRONMENT: deallocated.

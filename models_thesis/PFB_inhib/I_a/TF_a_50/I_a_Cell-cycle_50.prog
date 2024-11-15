@@ -84,4 +84,4 @@ let Chp_i : bproc = #(j, Chp_i) [ nil ];
 let Pho : bproc = #(k, Pho) [ nil ];
 let S : bproc = #(s, S) [ nil ];
 
-run 500 inhibitor_p || 50 TF_a || 500 E_1 || 500 E_2 
+run 500 inhibitor_p || 50 TF_a || 500 E_1 || 500 E_2 || 30 S 

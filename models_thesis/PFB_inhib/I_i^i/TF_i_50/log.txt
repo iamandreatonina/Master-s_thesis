@@ -1,0 +1,22 @@
+
+
+----------------------
+[14-11-2024 17:39:2] Random seed: 730522022
+[14-11-2024 17:39:2] PROGRAM FILE: parsed.
+[14-11-2024 17:39:2] SYMBOL TABLE: generated.
+[14-11-2024 17:39:2] VALIDATION: ok.
+[14-11-2024 17:39:2] INTERMEDIATE CODE: generated.
+[14-11-2024 17:39:2] ENVIRONMENT: initialized.
+[14-11-2024 17:39:2] SIMULATION: terminated.
+[14-11-2024 17:39:2] ENVIRONMENT: deallocated.
+
+
+----------------------
+[14-11-2024 17:39:3] Random seed: 730522841
+[14-11-2024 17:39:3] PROGRAM FILE: parsed.
+[14-11-2024 17:39:3] SYMBOL TABLE: generated.
+[14-11-2024 17:39:3] VALIDATION: ok.
+[14-11-2024 17:39:3] INTERMEDIATE CODE: generated.
+[14-11-2024 17:39:3] ENVIRONMENT: initialized.
+[14-11-2024 17:39:4] SIMULATION: terminated.
+[14-11-2024 17:39:4] ENVIRONMENT: deallocated.

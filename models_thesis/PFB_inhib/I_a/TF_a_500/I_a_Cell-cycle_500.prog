@@ -36,8 +36,8 @@ when (activator :: r_17) delete(1);
 
 // movements 
 
-when (activator :: r_13) split(activator_p, Nil);
-when (activator :: r_12) split(activator_p, Nil);
+//when (activator :: r_13) split(activator_p, Nil);
+//when (activator :: r_12) split(activator_p, Nil);
 when (activator :: r_29) split(activator_p, Nil);
 when (activator_p :: r_14) split(activator, Nil);
 //when (activator_p :: r_28) split(activator, Nil);

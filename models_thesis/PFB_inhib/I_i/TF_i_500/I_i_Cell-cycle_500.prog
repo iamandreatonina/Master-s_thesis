@@ -1,7 +1,5 @@
 [ steps = 1000 , delta = 0.5 ]
 
-// B_A so both positive feedbacks present and TF acts on the activator
-
 // TR
 
 let TR : bproc = #(x,TR) [ nil ];
