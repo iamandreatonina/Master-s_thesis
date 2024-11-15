@@ -14,7 +14,7 @@
 </p>
 
 ### I<sup>A</sup><sub>A</sub> Initial values: 500 inhibitor<sub>p</sub> | 500 E<sub>1</sub> | 500 E<sub>2</sub> | 500 ChP<sub>A</sub> | 30 S 
-<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/PFB_inhib/I_a%5Ea/I_a%5Ea_cell-cyle.png' width = 600/>
+<img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/PFB_inhib/I_a%5Ea/I_a%5Ea_cell-cycle.png' width = 600/>
 - 500 TF<sub>a</sub> 
 <p float="left">
   <img src='https://github.com/iamandreatonina/master-s_thesis/blob/main/models_thesis/PFB_inhib/I_a%5Ea/TF_a_500/I_a%5Ea_stop_500.png' width = 400/>
