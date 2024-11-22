@@ -1,28 +1,28 @@
 REACTIONS
 
-S_inhibitor  --(delete)-> Nil [32764]
+S_inhibitor  --(delete)-> Nil [29374]
 
-S_inhibitor_p  --(new)-> S_inhibitor_p  [124614]
+S_inhibitor_p  --(new)-> S_inhibitor_p  [124756]
 
-S_TR  --(split)-> S_TR_p  [8874]
+S_TR  --(split)-> S_TR_p  [8923]
 
-S_activator  --(split)-> S_activator_p  [35191]
+S_activator  --(split)-> S_activator_p  [35127]
 
-S_TR_p  --(split)-> S_TR  [9471]
+S_TR_p  --(split)-> S_TR  [9551]
 
-S_inhibitor_p  --(split)-> S_inhibitor  [141202]
+S_inhibitor_p  --(split)-> S_inhibitor  [149713]
 
-S_inhibitor_p  --(delete)-> Nil [91738]
+S_inhibitor_p  --(delete)-> Nil [95297]
 
-S_inhibitor  --(split)-> S_inhibitor_p  [108402]
+S_inhibitor  --(split)-> S_inhibitor_p  [120322]
 
 S_TR_p  --(delete)-> Nil [127]
 
-S_activator_p  --(split)-> S_activator  [35057]
+S_activator_p  --(split)-> S_activator  [34995]
 
-S_TR  --(delete)-> Nil [228]
+S_TR  --(delete)-> Nil [226]
 
-S_TR_p  --(new)-> S_TR_p  [975]
+S_TR_p  --(new)-> S_TR_p  [987]
 
 
 
