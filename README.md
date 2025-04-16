@@ -1,6 +1,14 @@
-# master's thesis
+# ‭Master's thesis in quantitative and computational biology
 
-## Models and results of the plot
+## ‭Exploring the integration of genomic data‬ ‭into stochastic modeling of Cell Cycle
+
++ Graduant: Andrea Tonina
++ Supervisor : Professor Alessandro Romanel, PhD.
+
+<div align="center">
+  <img src="logo_cibio/cibio_logo_master.jpeg" alt="drawing" width="200"/>
+</div>
+
 
 _Model annotation_ 
 
